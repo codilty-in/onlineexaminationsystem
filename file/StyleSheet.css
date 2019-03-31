@@ -1,0 +1,58 @@
+﻿body {
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom:10px;    
+}
+
+section {
+    height: 650px;
+    width: 1350px;
+    background-image: url("../images/bgco.jpg");
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    font-family: Verdana;
+    font-variant: small-caps;   
+}
+
+
+st {
+    margin: 0 auto;   
+    height: 250px;
+    width: 1350px;
+    background-image: url("../images/bgco.jpg");
+    justify-content: space-around;
+    display: flex;
+    border: 10px;
+    align-items: center;
+}
+
+
+sectionreg {
+    height: 650px;
+    width: 1350px;
+    background-image: url("../images/bgco.jpg");
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: Verdana;
+    font-variant: small-caps;
+    
+}
+
+db {
+    height: 400px;
+    width: 1350px;
+    background-image: url("../images/bgco.jpg");
+    justify-content: space-around;
+    display: flex;
+    border: 10px;
+    align-items: center;
+}
+
+.Button {
+    background-color: aqua;
+    color: antiquewhite;
+    font-size: 22px;
+    font-family: Verdana;
+}
